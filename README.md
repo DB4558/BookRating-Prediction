@@ -17,7 +17,7 @@ This project involves predicting ratings for books based on customer reviews. Th
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/book-rating-prediction.git
+   git clone https://github.com/DB4558/book-rating-prediction.git
    cd book-rating-prediction
 
 2.**Open the Jupyter Notebook**
