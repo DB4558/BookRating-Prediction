@@ -19,3 +19,11 @@ This project involves predicting ratings for books based on customer reviews. Th
    ```bash
    git clone https://github.com/yourusername/book-rating-prediction.git
    cd book-rating-prediction
+
+2.**Open the Jupyter Notebook**
+
+   ```bash
+      jupyter notebook
+
+Open the Drug_Recommendation_System.ipynb notebook and run all cells to train the model and get recommendations.
+
